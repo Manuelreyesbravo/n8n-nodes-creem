@@ -19,7 +19,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/latamflows/n8n-nodes-creem.git"
+		"url": "https://github.com/Manuelreyesbravo/n8n-nodes-creem.git"
 	},
 	"scripts": {
 		"build": "n8n-node build",
