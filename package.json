@@ -1,9 +1,9 @@
 {
-	"name": "n8n-nodes-creem",
+	"name": "n8n-nodes-creem-io",
 	"version": "0.1.0",
 	"description": "n8n community node for Creem - payments, subscriptions, licenses, and checkout management",
 	"license": "MIT",
-	"homepage": "https://github.com/latamflows/n8n-nodes-creem",
+	"homepage": "https://github.com/latamflows/n8n-nodes-creem-io",
 	"keywords": [
 		"n8n-community-node-package",
 		"n8n",
@@ -19,7 +19,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/Manuelreyesbravo/n8n-nodes-creem.git"
+		"url": "https://github.com/Manuelreyesbravo/n8n-nodes-creem-io.git"
 	},
 	"scripts": {
 		"build": "n8n-node build",
